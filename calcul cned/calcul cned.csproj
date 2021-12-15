@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\OneDrive\Bureau\CNED VISUAL STUDIO\programme calcul cned.cs" />
+    <Compile Include="..\..\..\..\OneDrive\Bureau\CNED VISUAL STUDIO\programme calcul cned GHITHUB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
